@@ -7,7 +7,7 @@ This is a demo for how to use SeetaFace6 in Windows, see [FaceDetection](FaceDet
 
 ![fa_fd](data/fd_fa.png)
 
-For more information, please refer to [SeetaFace6入门教程](http://leanote.com/blog/post/5e7d6cecab64412ae60016ef)
+For more information, please refer to [SeetaFace6 Documentation](http://leanote.com/blog/post/5e7d6cecab64412ae60016ef)
 
 ### Reference
 https://github.com/seetaface/SeetaFaceEngine
